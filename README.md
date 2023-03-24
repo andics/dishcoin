@@ -1,5 +1,5 @@
 # DishCoin - dishwashing sagas
-##Note
+## Note
 All blockchain/BitCoin related for our project can be found at this repositiry: https://github.com/albertoZurini/quantitative_chamber_starthack23
 
 ### Overview
