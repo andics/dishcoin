@@ -1,10 +1,10 @@
-# TensorFlow Lite Object Detection Android Demo
-
+# DishCoin - dishwashing sagas
 ### Overview
 
 DishCoin is an app, powered by Computer Vision, that is made to assess your dishwashing efficiency.
 Load your DishCoin wallet with BitCoin and compete with your friends for the goal of saving
 water through dishwashing efficiency sagas. The winner takes it all! (screenshot1.png)
+![Correct identification of a person washing a bottle](screenshot1.png)
 
 ### The Tech
 The neural network used for the detection of people, cuttlery and dishes is the:
