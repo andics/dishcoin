@@ -1,4 +1,7 @@
 # DishCoin - dishwashing sagas
+##Note
+All blockchain/BitCoin related for our project can be found at this repositiry: https://github.com/albertoZurini/quantitative_chamber_starthack23
+
 ### Overview
 
 DishCoin is an app, powered by Computer Vision, that is made to assess your dishwashing efficiency.
