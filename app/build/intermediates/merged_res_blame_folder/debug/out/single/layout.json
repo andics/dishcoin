@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "Q:\\Projects\\Hackathons\\start_hack\\dish_coin_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "Q:\\Projects\\Hackathons\\start_hack\\dish_coin_app\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "Q:\\Projects\\Hackathons\\start_hack\\dish_coin_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "Q:\\Projects\\Hackathons\\start_hack\\dish_coin_app\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "Q:\\Projects\\Hackathons\\start_hack\\dish_coin_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "Q:\\Projects\\Hackathons\\start_hack\\dish_coin_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
