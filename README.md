@@ -3,7 +3,8 @@
 
 DishCoin is an app, powered by Computer Vision, that is made to assess your dishwashing efficiency.
 Load your DishCoin wallet with BitCoin and compete with your friends for the goal of saving
-water through dishwashing efficiency sagas. The winner takes it all! (screenshot1.png)
+water through dishwashing efficiency sagas. The winner takes it all!
+
 ![Correct identification of a person washing a bottle](screenshot1.png)
 
 ### The Tech
